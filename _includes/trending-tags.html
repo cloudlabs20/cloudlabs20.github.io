@@ -33,7 +33,7 @@
   {% endfor %}
 {% endfor %}
 
-{% if trending_tags.size > 0 %}
+{% if trending_tags.size > 10000 %}
   <section>
     <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.trending_tags -}}</h2>
     <div class="d-flex flex-wrap mt-3 mb-1 me-3">
