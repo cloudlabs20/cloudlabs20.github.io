@@ -4,32 +4,48 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Hi there 👋, I'm Datta Nimmaturi
+> _Smart is not someone who knows a lot, but the one who knows where to look._
+{: .prompt-tip }
 
-<img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Datta Nimmaturi" style="width: 360px; float: right">
+Hi, I'm Vishal. Digital forensics is my bread and butter. With tremendous efforts and some luck I was able to build a startup, find right stakeholders and the right audience to make it profitable within 4 years. Working with a steady stream of clients, business is now run by the next generation of graduates whom I have mentored in last few years.
 
-- 🎓 I hold Bachelor's degree in Mathematics and Computer Science
-- 💻 Currently working at Nutanix.
-- 🤖 Have a huge interest in Maths, Deep Learning and Deep Reinforcement Learning
-- ❤️ Also Love Chess, Cricket and Tinkering with Operating Systems.
-- 📝 I also write another blog on substack summarising ML Research papers. [Check it out](https://datta0.substack.com) and here's a preview...
+I enjoy poking at the edges of security systems trying to understand how they work under the surface. In doing so, I have come across some unqiue project ideas that stand out for simplicity and broad coverage of client requirements. 
+
+The latest example being a homegrown MDM platform for android devices built for corporate clients who demand complete control on the architecture. Full data residency, zero dependence on cloud, and its ability to survive any unauthorized removal attempts. Ensuring that devices remain connected and the organisation's compliance policies are enforced at all times.
+
+I keep a close watch on BlackHat presentations. Two projects that standout the most are BootKitty and Windows Downdate.
+The sheer simplicity with which Downdate was able to manipulate fully updated Windows 10 system is a stark reminder that Security is just an illusion. It warrants greater emphasis on multi-layer defenses for Endpint security especially in large corporate environments.
+
+The primary goal of this blog is to document and understand challenges emerging at the cross-section of Information security and IT Infrastructure Management. I love building Homelabs to explore Enterprise automation and security solutions like Brainboard, Keycloak, and Bloodhound. Learning and perfecting new skills that would pave the way for next five years of my career.
 
 
-<br>
 
-<div id="substack-feed-embed"></div>
-<script>
-  window.SubstackFeedWidget = {
-    substackUrl: "datta0.substack.com",
-    posts: 4,
-    filter: "top",
-    layout: "center",
-    hidden: ["subtitle", "author", "date"],
-    colors: {
-      primary: "#FFF9F9",
-      secondary: "#808080",
-      background: "#000000",
-    }
-  };
-</script>
-<script src="https://substackapi.com/embeds/feed.js" async></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
