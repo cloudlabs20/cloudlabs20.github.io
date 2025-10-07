@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self Hosted Asset Management Solution
-author: turtle
+author: 
 date: 2024-05-20 14:10:00 +0800
 categories: 
 tags: [Blogging]

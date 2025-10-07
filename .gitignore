@@ -1,3 +1,10 @@
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
+
 # Bundler cache
 .bundle
 vendor
@@ -13,7 +20,6 @@ _site
 
 # NPM dependencies
 node_modules
-package-lock.json
 
 # IDE configurations
 .idea
@@ -25,3 +31,15 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+assets/lib
+
+# Chirpy
+.travis.yml
+bin/
+assets/js/dist/
+Gemfile.lock
+*.gem
+*.gemspec
+docs/
+tools/
+venv/

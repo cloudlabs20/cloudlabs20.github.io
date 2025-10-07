@@ -10,8 +10,8 @@
   <p>
     {{- '©' }}
     <time>{{ 'now' | date: '%Y' }}</time>
-  </p>
-<!--    {% if site.social.links %}
+
+    {% if site.social.links %}
       <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
     {% else %}
       <em class="fst-normal">{{ site.social.name }}</em>.
@@ -26,7 +26,7 @@
         {{- site.data.locales[include.lang].copyright.brief -}}
       </span>
     {% endif %}
-  </p> -->
+  </p>
 
   <p>
     {%- capture _platform -%}
