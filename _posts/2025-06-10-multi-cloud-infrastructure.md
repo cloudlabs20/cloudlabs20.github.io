@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Strategies for Multi-Cloud Infrastructure
-author: 
-date: 2024-07-08 07:26:00 +0800
 categories: 
 tags: [Blogging]
-render_with_liquid: true
 enable_toc: true
+render_with_liquid: true
+date: 2025-06-10 00:00:00 +0530
 ---
 
 <h3><b> What is multi cloud? </b></h3>

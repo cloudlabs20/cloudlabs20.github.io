@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Self Hosted Asset Management Solution
-author: 
-date: 2024-05-20 14:10:00 +0800
 categories: 
 tags: [Blogging]
-render_with_liquid: true
 enable_toc: true
+render_with_liquid: true
+date: 2025-05-20 00:00:00 +0530
 ---
 
 

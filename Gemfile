@@ -25,3 +25,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # to make creating posts one step easier
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+gem "jekyll-seo-tag", "~> 2.8"

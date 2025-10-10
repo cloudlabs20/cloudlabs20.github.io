@@ -16,7 +16,7 @@ The latest example being a homegrown MDM platform for android devices built for 
 I keep a close watch on BlackHat presentations. Two projects that standout the most are BootKitty and Windows Downdate.
 The sheer simplicity with which Downdate was able to manipulate fully updated Windows 10 system is a stark reminder that Security is just an illusion. It warrants greater emphasis on multi-layer defenses for Endpint security especially in large corporate environments.
 
-The primary goal of this blog is to document and understand challenges emerging at the cross-section of Information security and IT Infrastructure Management. I love building Homelabs to explore Enterprise automation and security solutions like Brainboard, Keycloak, and Bloodhound. Learning and perfecting new skills that would pave the way for next five years of my career.
+The primary goal of this blog is to document and understand challenges emerging at the cross-section of Information security and Cloud native services. I love building Homelabs to explore some of these challenges, automation and security solutions like Bloodhound, Exegol, Keycloak, and Brainboard. Learning and perfecting new skills that would pave the way for next five years of my career.
 
 
 

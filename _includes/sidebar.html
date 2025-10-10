@@ -3,13 +3,13 @@
 <aside aria-label="Sidebar" id="sidebar">
   <header class="profile-wrapper">
 
-  <a href="{{ '/' | relative_url }}" id="avatar" class="flex-column h-100 w-100 ps-3">
+  <a href="{{ '/' | relative_url }}" id="avatar" class="flex-column h-100 w-100 ps-2">
       {%- if site.avatar != empty and site.avatar -%}
         {%- capture avatar_url -%}
           {% include media-url.html src=site.avatar %}
         {%- endcapture -%}
 
-        <img src="{{- avatar_url -}}" width="175" height="112" alt="avatar" onerror="this.style.display='none'">
+        <img src="{{- avatar_url -}}" width="185" height="112" alt="avatar" onerror="this.style.display='none'">
       {%- endif -%}
     </a>
 

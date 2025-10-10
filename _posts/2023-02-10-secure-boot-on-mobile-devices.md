@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Understanding Secure boot on Mobile devices
-author: 
-date: 2024-02-10 16:50:00 +0800
-categories: 
-tags: [Blogging]
-render_with_liquid: true
+categories: [ android security ]
+tags: [android, mobile, Secure boot, Verified boot]
 enable_toc: true
+render_with_liquid: true
+date: 2023-02-10 00:00:00 +0530
 ---
 
 
@@ -45,13 +44,13 @@ If any partition fails verification, the boot process is halted, and a warning s
 
 <br>
 
-###### Sources
+##### Sources
 
-<https://lwn.net/Articles/638627/>
-<https://source.android.com/docs/security/features/verifiedboot/boot-flow>
-<https://android.googlesource.com/platform/external/avb/+/master/README.md>
-<https://technotes.kynetics.com/2018/introduction-to-dm-verity-on-android/>
-<https://xdaforums.com/t/signing-boot-images-for-android-verified-boot-avb-v8.3600606/>
+- <https://lwn.net/Articles/638627/>
+- <https://source.android.com/docs/security/features/verifiedboot/boot-flow>
+- <https://android.googlesource.com/platform/external/avb/+/master/README.md>
+- <https://technotes.kynetics.com/2018/introduction-to-dm-verity-on-android/>
+- <https://xdaforums.com/t/signing-boot-images-for-android-verified-boot-avb-v8.3600606/>
 
 
 

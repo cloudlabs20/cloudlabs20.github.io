@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Challenges in Mobile Device Management
-author: 
-date: 2024-04-28 02:46:00 +0800
 categories: 
-tags: [Blogging]
-render_with_liquid: true
+tags: [MDM, BYOD]
 enable_toc: true
+render_with_liquid: true
+date: 2025-04-28 00:00:00 +0530
 ---
 
 
