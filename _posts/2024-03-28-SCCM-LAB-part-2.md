@@ -9,11 +9,11 @@ date: 2024-03-28 00:00:00 +0530
 ---
 
 
-![figure1]({{site.url}}/assets/img/SCCMLAB.png)
+![figure1]({{site.url}}/assets/img/sccmlab1.png)
 
 On the previous post ([SCCM LAB part 1]({% link _posts/2024-03-23-SCCM-LAB-part-1.md %})) we setup an environment  to test SCCM vulnerabilities.
 
-![vmware_ready.png](/assets/img/vmware_ready.png)
+![vmware_ready.png](/assets/img/sccmlab8.png)
 
 # Recon
 
@@ -28,8 +28,8 @@ nmap -p 80,443,445,1433,10123,8530,8531 -sV 192.168.33.11-12
 nmap -p 67,68,69,4011,547 -sU 192.168.33.11 
 ```
 
-![tcp_scan.png](/assets/img/tcp_scan.png)
-![udp_scan.png](/assets/img/udp_scan.png)
+![tcp_scan.png](/assets/img/sccmlab9.png)
+![udp_scan.png](/assets/img/sccmlab10.png)
 
 - let see the certificate on port 10123
 
@@ -37,7 +37,7 @@ nmap -p 67,68,69,4011,547 -sU 192.168.33.11
 openssl s_client -connect 192.168.33.11:10123
 ```
 
-![self_certificate_SMS.png](/assets/img/self_certificate_SMS.png)
+![self_certificate_SMS.png](/assets/img/sccmlab11.png)
 
 - and the self-signed certificate common name is SMS :)
 

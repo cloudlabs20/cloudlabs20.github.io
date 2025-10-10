@@ -22,7 +22,7 @@ VPC is the most important concept in the cloud security ecosystem. Imagine it as
 
 It is important to set up a vpc before anything (EC2, ECS, RDS, ELB and so on) since later on, you will be connecting and forwarding traffic through Route53 to the designated VPC. For example, We want to launch a simple django application using AWS. The general workflow would look something like this:
 
-![figure1](/assets/img/aws-architect.png)
+![figure1](/assets/img/aws1.png)
 
 - Set up VPC and SG (Security Group)
 - Place the DB, either using RDS or running in EC2, in private subnet, since we do not want it to be accessible from the outside world.
@@ -76,7 +76,7 @@ Now that we have created subnets, we have to manage what kind of traffic can go 
 
 **Security groups** are firewall for your instances in a VPC. For instance, we may want to open only the http/https inbound traffic on specific EC2 instance running Django but SSH from only one IP address. Security groups take care of these conditional access requirements.
 
-![figure2](/assets/img/gateways.png)
+![figure2](/assets/img/aws2.png)
 
 ## Gateways
 

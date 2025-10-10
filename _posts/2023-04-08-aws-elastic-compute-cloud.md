@@ -8,7 +8,6 @@ render_with_liquid: true
 date: 2023-04-08 00:00:00 +0530
 ---
 
-
 It is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make enterprise-scale cloud computing easier for developers.
 
 Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with
@@ -215,7 +214,7 @@ the applications or sites that you host on your instances.
 
 The following illustration represents the transitions between instance states. Notice that you can't stop and start an instance store-backed instance.
 
-![figure1]({{site.url}}/assets/img/instance_lifecycle.png)
+![figure1]({{site.url}}/assets/img/lifecycle.png)
 
 The following table provides a brief description of each instance state and indicates whether it is billed or not. 
 

@@ -8,7 +8,7 @@ render_with_liquid: true
 date: 2022-09-18 00:00:00 +0530
 ---
 
-![figure1]({{site.url}}/assets/img/VLAN-application-diagram-image.jpg)
+![figure1]({{site.url}}/assets/img/VLAN1.jpg)
 
 ## What is a VLAN?
 
@@ -128,7 +128,7 @@ However, for other switch vendors, you will need to **manually adjust** the PVID
 
 If you have multiple VLANs on your network, you need a way to move traffic between switches without losing the VLAN information. This is where **trunk ports** come in. A trunk port is a special port that carries traffic for multiple VLANs between switches. Think of it like a superhighway that all the VLANs can use to get from one switch to another, without mixing up their traffic.
 
-![figure2]({{site.url}}/assets/img/VLAN_trunk_port.png)
+![figure2]({{site.url}}/assets/img/VLAN2.png)
 _Source: https://www.adroitacademy.com/web-portal/img/blog/43604421.png_
 
 Now, here's an important note: **VLAN trunks** are not the same as **LAG (Link Aggregation Group) trunks**. Sometimes, vendors (especially network equipment manufacturers) use the word **trunk** when referring to **LAG** connections, and this can be a little confusing.

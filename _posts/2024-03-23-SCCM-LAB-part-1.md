@@ -9,7 +9,7 @@ date: 2024-03-23 00:00:00 +0530
 ---
 
 
-![figure1]({{site.url}}/assets/img/SCCMLAB.png)
+![figure1]({{site.url}}/assets/img/sccmlab1.png)
 
 After few ~~hours~~, ~~days~~, weeks of install, ansible recipe creation, fails and many retries, the lab is ready.
 
@@ -22,7 +22,7 @@ Thanks to the writers, and thanks even more to all the searcher who have share a
 
 ## Lab structure
 
-![SCCMLAB_overview](/assets/img/SCCMLAB_overview.png)
+![SCCMLAB_overview](/assets/img/sccmlab2.png)
 
 The lab is build on top of 4 VMs:
 - **DC.sccm.lab** :  Domain Controler 
@@ -100,7 +100,7 @@ source .venv/bin/activate
 
 - If all goes well we will see this message at the end of the install:
 
-![build_finish.png](/assets/img/build_finish.png)
+![build_finish.png](/assets/img/sccmlab3.png)
 
 > As comparison a GOAD installation take around 100 minutes to run.
 
@@ -110,16 +110,16 @@ If all goes well will have a working lab with configuration manager installed.
 Let's verify:
 
 - Connect to MECM$ with the following credentials:
-![connect_as_dave.png](/assets/img/connect_as_dave.png)
+![connect_as_dave.png](/assets/img/sccmlab4.png)
 
 - Open the configuration manager console:
-![console.png](/assets/img/console.png)
+![console.png](/assets/img/sccmlab5.png)
 
 - Check if the clients are enrolled (should have a green check and client active on MSSQL, MECM and CLIENT computers):
-![clients_ok.png](/assets/img/clients_ok.png)
+![clients_ok.png](/assets/img/sccmlab6.png)
 
 - The distribution of boot images and operating system for pxe:
-![distribution_status.png](/assets/img/distribution_status.png)
+![distribution_status.png](/assets/img/sccmlab7.png)
 
 Lab setup completed. In the next article we dicuss and test all listed vulnerabilities.
 
