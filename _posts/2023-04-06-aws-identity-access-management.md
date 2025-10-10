@@ -1,5 +1,5 @@
 ---
-laust: post
+layout: post
 title: AWS Identity and Access Management
 categories: [ AWS ]
 tags: [ AWS, IAM, Access Management, Identify, IAM Roles ]
@@ -7,6 +7,7 @@ enable_toc: true
 render_with_liquid: true
 date: 2023-04-06 00:00:00 +0530
 ---
+
 
 A cloud service that helps us securely control access to AWS resources. IAM controls who is authenticated (signed in) and authorized (has permissions) to use resources. IAM allows us to manage users and their level of access to the aws console (dashboard).
 

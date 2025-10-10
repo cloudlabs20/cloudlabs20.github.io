@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2023-10-04 00:00:00 +0530
 ---
 
+
 # Resources Tags
 
 We can assign metadata to AWS resources in the form of tags. Each tag is a simple label consisting of a customer-defined key and an optional value that can make it easier to manage, search for, and filter resources by purpose, owner, environment, or other criteria. AWS tags can be used for many purposes.

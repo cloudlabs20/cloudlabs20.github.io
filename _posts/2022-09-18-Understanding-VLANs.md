@@ -3,7 +3,6 @@ layout: post
 title: Understanding VLAN tags and Trunks Ports
 categories: [ Networking ]
 tags: [VLAN, Switch, Trunk ports]
-author: 
 enable_toc: true
 render_with_liquid: true
 date: 2022-09-18 00:00:00 +0530

@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2024-06-25 00:00:00 +0530
 ---
 
+
 ## What is Terraform?
 
 Terraform, created by HashiCorp, is an Infrastructure as Code (IaC) tool that lets you manage and set up your infrastructure using code. In the past, setting up or configuring infrastructure meant doing it all manually. But now, with Terraform, you can easily deploy infrastructure through code instead of using a WebUI or SSH. Plus, it allows you to manage configurations across various public and private cloud environments.

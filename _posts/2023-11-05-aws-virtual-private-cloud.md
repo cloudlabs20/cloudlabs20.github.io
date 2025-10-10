@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2023-11-05 00:00:00 +0530
 ---
 
+
 ## Key Terminology
 
 - VPC, ECS, ECR, EC2

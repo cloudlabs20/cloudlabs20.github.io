@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2024-06-15 00:00:00 +0530
 ---
 
+
 ## What is Cloud-init Drive?
 
 In Proxmox, the "cloud-init drive" is a virtual disk that you attach to a virtual machine or container. This virtual disk tells the machine how to set itself up when it initially starts running. It's convenient because you can include details such as the machine's name, internet connectivity settings, and even the software it should install right from the outset. This facilitates the process of setting up new machines, particularly when managing a large number of them, by streamlining and expediting the configuration process.

@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2024-03-28 00:00:00 +0530
 ---
 
+
 ![figure1]({{site.url}}/assets/img/SCCMLAB.png)
 
 On the previous post ([SCCM LAB part 1]({% link _posts/2024-03-23-SCCM-LAB-part-1.md %})) we setup an environment  to test SCCM vulnerabilities.

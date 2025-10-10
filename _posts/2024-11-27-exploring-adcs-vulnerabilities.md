@@ -9,6 +9,7 @@ render_with_liquid: true
 enable_toc: true
 ---
 
+
 <h3><b> Focuss on the less obvious risks </b></h3>
 
 Cyber security threat landscape is constantly evolving, making it hard to stay ahead of potential threats. While most of the publicly documented vulnerabilities are easy to detect through automated alerts generated from SIEM/EDR monitoring tools, but there are others, more subtle, often overlooked but are just as dangerous. Active Directory Services form the technology core of all major industries from finance to manufacting, edtech to aerospace. This article focuses on a specific risks present at the heart of Windows server environments, the Microsoft AD Certificate Services (ADCS). 

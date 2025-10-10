@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2024-09-15 00:00:00 +0530
 ---
 
+
 ## Difference between Computer and User Administrative Templates
 
 When you’re setting up Group Policies, you’ll notice two main sections: **Computer Configuration** and **User Configuration**. These correspond to two types of administrative templates, and knowing which one to use is key.

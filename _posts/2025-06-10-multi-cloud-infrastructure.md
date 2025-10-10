@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2025-06-10 00:00:00 +0530
 ---
 
+
 <h3><b> What is multi cloud? </b></h3>
 
 <a href="https://www.f5.com/state-of-application-strategy-report"> Research shows </a> that nearly 90% of companies use multi-cloud environments. Only a small percentage of organizations still rely solely on their on-premises infrastructure. Most organizations now deploy business applications across a diverse set of cloud environments, leveraging services in diverse locations, using Public cloud SaaS, Edge, and co-location options. Only 5% of organizations are NOT utilizing some type of "as a service" offerings today. Five largest cloud service providers are Microsoft Azure, Google Cloud, Amazon Web Services, Oracle Cloud, IBM.

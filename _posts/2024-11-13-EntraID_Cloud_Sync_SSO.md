@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2024-11-13 00:00:00 +0530
 ---
 
+
 In today's tech-driven workplaces, managing user identities across various platforms can be challenging. Connecting your local Active Directory to Microsoft Entra ID (formerly Azure AD) simplifies user management, enhances security, and improves the sign-on experience. This guide walks you through the entire setup process, from adding a custom domain to enabling single sign-on.
 
 ## Why Integrate Active Directory with Microsoft Entra ID?

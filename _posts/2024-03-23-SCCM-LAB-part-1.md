@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2024-03-23 00:00:00 +0530
 ---
 
+
 ![figure1]({{site.url}}/assets/img/SCCMLAB.png)
 
 After few ~~hours~~, ~~days~~, weeks of install, ansible recipe creation, fails and many retries, the lab is ready.

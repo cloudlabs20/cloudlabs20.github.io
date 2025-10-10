@@ -8,6 +8,7 @@ render_with_liquid: true
 date: 2024-06-10 00:00:00 +0530
 ---
 
+
 ## What is Proxmox?
 
 ![proxmox](/assets/img/proxmox/proxmox-sample.png)
