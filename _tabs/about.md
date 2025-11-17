@@ -7,8 +7,6 @@ order: 4
 > _Smart is not someone who knows a lot, but the one who knows where to look._
 {: .prompt-tip }
 
-Hi, I'm Vishal. Digital forensics is my bread and butter. With tremendous efforts and some luck I was able to build a startup, find right stakeholders and the right audience to make it profitable within 4 years. Working with a steady stream of clients, business is now run by the next generation of graduates whom I have mentored in last few years.
-
 I enjoy poking at the edges of security systems trying to understand how they work under the surface. In doing so, I have come across some unqiue project ideas that stand out for simplicity and broad coverage of client requirements. 
 
 The latest example being a homegrown MDM platform for android devices built for corporate clients who demand complete control on the architecture. Full data residency, zero dependence on cloud, and its ability to survive any unauthorized removal attempts. Ensuring that devices remain connected and the organisation's compliance policies are enforced at all times.
